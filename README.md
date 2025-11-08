@@ -36,4 +36,4 @@ java HelloWorld
 
 ```
 
-![Program Output](images/OutputScreenshot.png)
+![Program Output](images/OutputScreenshot.PNG)
